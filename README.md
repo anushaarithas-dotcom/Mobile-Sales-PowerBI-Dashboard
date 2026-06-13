@@ -24,7 +24,7 @@ This dashboard helps sales & marketing teams track mobile sales trends, identify
 
 ## 🚀 How to Run
 1. Clone this repo
-2. Open `Mobile_Sales_Dashboard.pbix` in Power BI Desktop
+2. Open `mobile.pbix` in Power BI Desktop
 3. Refresh data & use slicers
 
    ## 📂 Download
