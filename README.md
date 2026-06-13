@@ -2,7 +2,7 @@
 
 A Power BI dashboard to analyze mobile sales performance across brands, stores, cities, and payment modes for FY 2025-26.
 
-![Dashboard Screenshot](screenshot/sales.png)
+![Dashboard Screenshot](screenshots/sales.png)
 
 ## 🎯 Project Overview
 This dashboard helps sales & marketing teams track mobile sales trends, identify top-performing brands/cities, and understand customer payment behavior.
